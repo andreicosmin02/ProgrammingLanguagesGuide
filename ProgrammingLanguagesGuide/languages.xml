@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<languages>
+    <language>
+        <name>Swift</name>
+        <creator>Apple</creator>
+        <year>2014</year>
+        <mainUse>iOS app development</mainUse>
+        <imageName>swift</imageName>
+        <details>Swift is a modern programming language created by Apple. It is mainly used to build apps for iPhone, iPad, Mac, Apple Watch, and Apple TV.</details>
+        <website>https://www.swift.org</website>
+    </language>
+
+    <language>
+        <name>Python</name>
+        <creator>Guido van Rossum</creator>
+        <year>1991</year>
+        <mainUse>Automation, web, data, AI</mainUse>
+        <imageName>python</imageName>
+        <details>Python is a popular programming language known for being easy to read and beginner friendly. It is used in web development, automation, data science, and artificial intelligence.</details>
+        <website>https://www.python.org</website>
+    </language>
+
+    <language>
+        <name>JavaScript</name>
+        <creator>Brendan Eich</creator>
+        <year>1995</year>
+        <mainUse>Web development</mainUse>
+        <imageName>javascript</imageName>
+        <details>JavaScript is mainly used to create interactive websites. It runs in web browsers and is also used on servers with Node.js.</details>
+        <website>https://developer.mozilla.org/en-US/docs/Web/JavaScript</website>
+    </language>
+
+    <language>
+        <name>Java</name>
+        <creator>James Gosling</creator>
+        <year>1995</year>
+        <mainUse>Enterprise and Android apps</mainUse>
+        <imageName>java</imageName>
+        <details>Java is an object-oriented programming language used for enterprise systems, Android apps, backend services, and large applications.</details>
+        <website>https://www.java.com</website>
+    </language>
+
+    <language>
+        <name>C#</name>
+        <creator>Microsoft</creator>
+        <year>2000</year>
+        <mainUse>Windows, web, and game development</mainUse>
+        <imageName>csharp</imageName>
+        <details>C# is a programming language developed by Microsoft. It is used for Windows applications, web applications, backend services, and games with Unity.</details>
+        <website>https://learn.microsoft.com/en-us/dotnet/csharp/</website>
+    </language>
+
+    <language>
+        <name>C++</name>
+        <creator>Bjarne Stroustrup</creator>
+        <year>1985</year>
+        <mainUse>Systems and game development</mainUse>
+        <imageName>cpp</imageName>
+        <details>C++ is a powerful programming language used for high-performance software, operating systems, game engines, and embedded systems.</details>
+        <website>https://isocpp.org</website>
+    </language>
+
+    <language>
+        <name>Go</name>
+        <creator>Google</creator>
+        <year>2009</year>
+        <mainUse>Backend and cloud services</mainUse>
+        <imageName>go</imageName>
+        <details>Go is a programming language created by Google. It is simple, fast, and commonly used for backend services, cloud tools, and network applications.</details>
+        <website>https://go.dev</website>
+    </language>
+
+    <language>
+        <name>Rust</name>
+        <creator>Graydon Hoare</creator>
+        <year>2010</year>
+        <mainUse>Safe systems programming</mainUse>
+        <imageName>rust</imageName>
+        <details>Rust is a systems programming language focused on speed, safety, and memory management. It helps developers build reliable and efficient software.</details>
+        <website>https://www.rust-lang.org</website>
+    </language>
+
+    <language>
+        <name>Kotlin</name>
+        <creator>JetBrains</creator>
+        <year>2011</year>
+        <mainUse>Android development</mainUse>
+        <imageName>kotlin</imageName>
+        <details>Kotlin is a modern programming language developed by JetBrains. It is widely used for Android development and can also be used for backend and multiplatform apps.</details>
+        <website>https://kotlinlang.org</website>
+    </language>
+
+    <language>
+        <name>TypeScript</name>
+        <creator>Microsoft</creator>
+        <year>2012</year>
+        <mainUse>Large JavaScript projects</mainUse>
+        <imageName>typescript</imageName>
+        <details>TypeScript is a programming language created by Microsoft. It adds types to JavaScript, making large web applications easier to build and maintain.</details>
+        <website>https://www.typescriptlang.org</website>
+    </language>
+</languages>
