@@ -54,6 +54,8 @@ class LanguageDetailsViewController: UIViewController {
     }
     
     @objc private func openWebpage() {
-        // Screen 4 will be added next
+        let webVC = LanguageWebViewController()
+        webVC.language = language
+        navigationController?.pushViewController(webVC, animated: true)
     }
 }
